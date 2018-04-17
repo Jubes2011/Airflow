@@ -82,7 +82,11 @@
             android:name=".ManualMatchActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity
+        <activity 
+        android:name=".DownloadActivity"
+        android:screenOrientation="portrait"
+       android:theme="@style/AppTheme.NoActionBar" />
+       <activity
             android:name=".NewReleaseActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
